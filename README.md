@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **Amarjeet325/Amarjeet325** is<h1 align="center">Hi 👋, I'm Amarjeet Patel</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
