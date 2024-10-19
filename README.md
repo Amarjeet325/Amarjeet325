@@ -2,7 +2,7 @@
 
 
 **Amarjeet325/Amarjeet325** is<h1 align="center">Hi 👋, I'm Amarjeet Patel</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amarjeet325&label=Profile%20views&color=0e75b6&style=flat" alt="amarjeet325" /> </p>
 
@@ -17,8 +17,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/amarjeet-patel-7a6bab247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amarjeet-patel-7a6bab247" height="30" width="40" /></a>
+ <h3 align="left">Social link :</h3>
 <a href="https://www.codechef.com/users/amarjeet2511" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="amarjeet2511" height="30" width="40" /></a>
+
 <a href="https://www.leetcode.com/amarjeet015" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amarjeet015" height="30" width="40" /></a>
+
 <a href="https://auth.geeksforgeeks.org/user/amarjeetpatpxof" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="amarjeetpatpxof" height="30" width="40" /></a>
 </p>
 
