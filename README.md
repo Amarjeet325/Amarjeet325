@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amarjeet Patel</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I am a Full Stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amarjeet325&label=Profile%20views&color=0e75b6&style=flat" alt="amarjeet325" /> </p>
 
@@ -10,8 +10,6 @@
 - 👨‍💻 All of my projects are available at [https://github.com/Amarjeet325](https://github.com/Amarjeet325)
 
 - 📫 How to reach me **amarjeetpatel015@gmail.com**
-
-- 📄 Know about my experiences [file:///home/amarjeet/Downloads/Amarjeet_resume.pdf#ResumeLink](file:///home/amarjeet/Downloads/Amarjeet_resume.pdf#ResumeLink)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
