@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Amarjeet Patel</h1>
+<h1 align="center">Hi 👋, I'm  MERN-STACK Developer from India </h1>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amarjeet325&label=Profile%20views&color=0e75b6&style=flat" alt="amarjeet325" /> </p>
