@@ -2,7 +2,7 @@
 
 <p align="left">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=amarjeet325&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="amarjeet325's Stats" style="margin-right: 20px;" />
-  <img src="https://streak-stats.demolab.com?user=amarjeet325&theme=vue-dark" alt="GitHub Streak Stats">
+  <img src="https://streak-stats.demolab.com?user=amarjeet325" alt="GitHub Streak Stats">
   <img src="https://komarev.com/ghpvc/?username=amarjeet325&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
