@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm  MERN-STACK Developer  </h1>
-![amarjeet325's Stats](https://github-readme-stats.vercel.app/api?username=amarjeet325&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+![amarjeet325's Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=amarjeet325&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amarjeet325&label=Profile%20views&color=0e75b6&style=flat" alt="amarjeet325" /> </p>
 
