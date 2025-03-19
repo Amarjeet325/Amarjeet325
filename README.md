@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm  MERN-STACK Developer  </h1>
 
-<p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amarjeet325&" alt="amarjeet325" /></p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amarjeet325&label=Profile%20views&color=0e75b6&style=flat" alt="amarjeet325" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amarjeet325" alt="amarjeet325" /></a> </p>
@@ -30,4 +28,8 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amarjeet325&show_icons=true&locale=en&layout=compact" alt="amarjeet325" /></p>
 <br>
 <p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amarjeet325&" alt="amarjeet325" /></p>
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=amarjeet325&theme=dark" />
+    <img src="https://streak-stats.demolab.com?user=amarjeet325&theme=default" />
+</picture>
 
