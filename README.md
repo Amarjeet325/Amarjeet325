@@ -27,7 +27,9 @@
 <br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amarjeet325&show_icons=true&locale=en&layout=compact" alt="amarjeet325" /></p>
 <br>
-<p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amarjeet325&" alt="amarjeet325" /></p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=amarjeet325" alt="GitHub Streak Stats">
+</p>
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=amarjeet325&theme=dark" />
     <img src="https://streak-stats.demolab.com?user=amarjeet325&theme=default" />
