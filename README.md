@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋, I'm  MERN-STACK Developer  </h1>
+<h1 align="center"> 👋 I'm a MERN-STACK Developer  </h1>
 
-![amarjeet325's Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=amarjeet325&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+<p align="left">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=amarjeet325&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="amarjeet325's Stats" style="margin-right: 20px;" />
+  <img src="https://komarev.com/ghpvc/?username=amarjeet325&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amarjeet325&label=Profile%20views&color=0e75b6&style=flat" alt="amarjeet325" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amarjeet325" alt="amarjeet325" /></a> </p>
 
