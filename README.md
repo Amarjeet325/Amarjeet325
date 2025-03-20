@@ -1,9 +1,21 @@
 <h1 align="center"> 👋 I'm a MERN-STACK Developer  </h1>
+<p align="center">
+  <img src="https://i.imgur.com/GZHodUG.png" width="100px"/>
+  <h3 align="center">Github Readme Streak Stats</h3>
+</p>
+
+<p align="center">
+  Display your total contributions, current streak,
+  <br/>
+  and longest streak on your GitHub profile README
+</p>
+
 
 <p align="left">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=amarjeet325&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="amarjeet325's Stats" style="margin-right: 20px;" />
  <br>
   <img src="https://komarev.com/ghpvc/?username=amarjeet325&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  
 </p>
 
 
