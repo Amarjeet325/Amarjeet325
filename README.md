@@ -23,6 +23,19 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+<br>  
+ </p>  
+
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amarjeet325&theme=vue)
+
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  
+</p>
+
+<br>
+
 - 🔭 I’m currently pursuing btech .... 
 
 - 👨‍💻 All of my projects are available at [https://github.com/Amarjeet325](https://github.com/Amarjeet325)
@@ -31,6 +44,10 @@
 
 - 📄 Know about my experiences [file:///home/amarjeet/Downloads/Amarjeet_resume.pdf#ResumeLink](file:///home/amarjeet/Downloads/Amarjeet_resume.pdf#ResumeLink)
  <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
+
+
+ <br/>
  
   
  <h3 align="left">Connect with me:</h3>
@@ -60,3 +77,4 @@
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amarjeet325&" alt="amarjeet325" /></p>
  
  <br>
+
