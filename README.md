@@ -5,12 +5,15 @@
    <img src="" width="100px"/>
    <h3 align="center">Github Readme Streak Stats</h3>
  </p>
- 
- <p align="center">
-   Display your total contributions, current streak,
-   <br/>
-   and longest streak on your GitHub profile README
- </p>
+
+- 🔭 I’m currently pursuing btech .... 
+
+- 👨‍💻 All of my projects are available at [https://github.com/Amarjeet325](https://github.com/Amarjeet325)
+
+- 📫 How to reach me **amarjeetpatel015@gmail.com**
+
+- 📄 Know about my experiences [file:///home/amarjeet/Downloads/Amarjeet_resume.pdf#ResumeLink](file:///home/amarjeet/Downloads/Amarjeet_resume.pdf#ResumeLink)
+- 
  
  
  <p align="left">
@@ -36,14 +39,6 @@
 
 <br>
 
-- 🔭 I’m currently pursuing btech .... 
-
-- 👨‍💻 All of my projects are available at [https://github.com/Amarjeet325](https://github.com/Amarjeet325)
-
-- 📫 How to reach me **amarjeetpatel015@gmail.com**
-
-- 📄 Know about my experiences [file:///home/amarjeet/Downloads/Amarjeet_resume.pdf#ResumeLink](file:///home/amarjeet/Downloads/Amarjeet_resume.pdf#ResumeLink)
-- 
  <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 
