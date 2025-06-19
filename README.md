@@ -6,14 +6,13 @@
    <h3 align="center">Github Readme Streak Stats</h3>
  </p>
 
-- 🔭 I’m currently pursuing btech .... 
+- 🔭 I’m currently Learning AI / ML  .... 
 
 - 👨‍💻 All of my projects are available at [https://github.com/Amarjeet325](https://github.com/Amarjeet325)
 
 - 📫 How to reach me **amarjeetpatel015@gmail.com**
 
-- 📄 Know about my experiences [file:///home/amarjeet/Downloads/Amarjeet_resume.pdf#ResumeLink](file:///home/amarjeet/Downloads/Amarjeet_resume.pdf#ResumeLink)
-- 
+- 📄 Know about my experiences [ https://docs.google.com/document/d/1LgY-QMC8h_UyphpZjzo4VOfxvr7KwDKT8jXwb_gIdMw/edit?tab=t.0]
   
  <p align="left">
    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=amarjeet325&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="amarjeet325's Stats" style="margin-right: 20px;" />
