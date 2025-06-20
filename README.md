@@ -2,7 +2,7 @@
 
 
  <p align="center">
-   <img src="" width="100px"/>
+   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=amarjeet325&theme=vue"  width="500px"   />
    <h3 align="center">Github Readme Streak Stats</h3>
  </p>
 
