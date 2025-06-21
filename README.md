@@ -6,7 +6,7 @@
    <h3 align="center">Github Readme Streak Stats</h3>
  </p>
 
-- 🔭 I’m currently Learning AI / ML  .... 
+- 🔭 I’m currently Learning next js & AI / ML   .... 
 
 - 👨‍💻 All of my projects are available at [https://github.com/Amarjeet325](https://github.com/Amarjeet325)
 
