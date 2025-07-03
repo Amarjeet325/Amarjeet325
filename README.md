@@ -3,7 +3,7 @@
 
  <p align="center">
    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=amarjeet325&theme=vue"  width="500px"   />
-   <h3 align="center">Github Readme Streak Stats</h3>
+   <h3 align="center">Github Streak Stats</h3>
  </p>
 
 - 🔭 I’m currently Learning next js & AI / ML ...... 
