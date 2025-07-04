@@ -12,6 +12,8 @@
 
 - 📫 How to reach me **amarjeetpatel015@gmail.com**
 
+- 💬 Telegram  : https://t.me/amarjeet015
+
 - 📄 Know about my experiences [https://drive.google.com/file/d/14Q9a-axzi10T1he8Vgl61gjiEZ7hTNHV/view?usp=drivesdk]
   
  <p align="left">
