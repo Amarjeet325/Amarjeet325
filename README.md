@@ -14,7 +14,7 @@
 
 - 💬 Telegram  : https://t.me/amarjeet015
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/14Q9a-axzi10T1he8Vgl61gjiEZ7hTNHV/view?usp=drivesdk]
+- 📄 Know about my experiences , Here is the my Resume [https://drive.google.com/file/d/16bp6vVhm1YVPmo06Ex93FglCGcQSPObx/view?usp=drivesdk]
   
  <p align="left">
    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=amarjeet325&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="amarjeet325's Stats" style="margin-right: 20px;" />
