@@ -1,4 +1,4 @@
-<h1 align="center"> Hi ! 👋 I'm a MERN- Full-STACK Developer  </h1>
+<h1 align="center"> Hi ! 👋 I'm a  Full-STACK Developer  </h1>
 
 
  <p align="center">
