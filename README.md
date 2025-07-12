@@ -41,7 +41,8 @@
 <a href="https://linkedin.com/in/amarjeet-patel-7a6bab247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amarjeet-patel-7a6bab247" height="30" width="40" /></a>
 <!-- <a href="https://stackoverflow.com/users/users/27663476/amarjeet-patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/27663476/amarjeet-patel" height="30" width="40" /></a>
   -->
-<a href="https://kaggle.com/amarjeetpatel015" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="amarjeetpatel015" height="30" width="40" /></a>
+<!-- <a href="https://kaggle.com/amarjeetpatel015" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="amarjeetpatel015" height="30" width="40" /></a> -->
+ 
  <a href="https://t.me/amarjeet015" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" alt="amarjeet015" height="30" width="40" />
 </a>
