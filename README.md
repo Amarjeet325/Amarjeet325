@@ -6,7 +6,7 @@
    <h3 align="center">Github Streak Stats</h3>
  </p>
 
-- 🔭 I’m currently Learning  AI / ML  & Data Science  Basics ...... 
+- 🔭 I’m currently Learning  AI / ML    Basics ...... 
 
 - 👨‍💻 All of my projects are available at [https://github.com/Amarjeet325](https://github.com/Amarjeet325)
 
