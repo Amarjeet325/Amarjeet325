@@ -6,7 +6,7 @@
    <h3 align="center">Github Streak Stats</h3>
  </p>
 
-- 🔭 I’m currently Learning  Java Full-Stack developement ...... 
+- 🔭 I’m currently Learning  angular  developement ...... 
 
 - 👨‍💻 All of my projects are available at [https://github.com/Amarjeet325](https://github.com/Amarjeet325)
 
