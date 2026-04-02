@@ -6,7 +6,7 @@
    <h3 align="center">Github Streak Stats</h3>
  </p>
 
-- 🔭 I’m currently Learning  angular  developement ...... 
+- 🔭 I’m currently Learning  Java + DSA...... 
 
 - 👨‍💻 All of my projects are available at [https://github.com/Amarjeet325](https://github.com/Amarjeet325)
 
@@ -24,7 +24,7 @@
 <br>  
  </p>  
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amarjeet325&theme=vue)
+![Amarjeet's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amarjeet325&theme=vue)
 
 
 <!--horizontal divider(gradiant)-->
