@@ -79,7 +79,7 @@
 <!--  <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amarjeet325&theme=vue-dark&show_icons=true&locale=en&layout=compact" alt="amarjeet325" /> 
   
  </p> -->
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amarjeet325&" alt="amarjeet325" /></p>
+ <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amarjeet325&" alt="amarjeet325" /></p> -->
  
  <br>
 
