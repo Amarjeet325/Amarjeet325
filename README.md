@@ -14,7 +14,6 @@
 
 - 💬 Telegram  : https://t.me/amarjeet015
 
-- 📄 Know about my experiences ----
   
  <p align="left">
    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=amarjeet325&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="amarjeet325's Stats" style="margin-right: 20px;" />
