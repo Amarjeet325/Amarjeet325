@@ -6,7 +6,7 @@
    <h3 align="center">Github Streak Stats</h3>
  </p>
 
-- 🔭 I’m currently Learning  Java + DSA...... 
+- 🔭 I’m currently Learning  Ai Engineering & Java + DSA...... 
 
 - 👨‍💻 All of my projects are available at [https://github.com/Amarjeet325](https://github.com/Amarjeet325)
 
